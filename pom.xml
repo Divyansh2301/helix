@@ -404,7 +404,7 @@
         <profile>
             <id>LOCAL-Divyansh Jain</id>
             <properties>
-                <DB_URL>jdbc:postgresql://ec2-52-0-65-165.compute-1.amazonaws.com:5432/d9tcldpfeoib6c</DB_URL>
+                <DB_URL>ec2-52-0-65-165.compute-1.amazonaws.com:5432/d9tcldpfeoib6c</DB_URL>
                 <BASE_DIR>C:\Users\Divyansh\IdeaProjects\helix</BASE_DIR>
                 <DB_NAME>twitter</DB_NAME>
                 <DB_USERNAME>slorpwxghpblun</DB_USERNAME>
